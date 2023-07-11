@@ -36,6 +36,5 @@ Developer, Gameplay Programmer, UI/UX Designer & Programmer
 - Health System
 
 ### Demo
-[Download](https://lindseybraun.itch.io/security) 
-
+[Download](https://lindseybraun.itch.io/security) <br>
 [Youtube](https://youtu.be/dGNNAskwbWw)
