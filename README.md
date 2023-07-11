@@ -34,3 +34,8 @@ Developer, Gameplay Programmer, UI/UX Designer & Programmer
 - Proximity Light Toggling
 - AI Enemy
 - Health System
+
+### Demo
+[Download](https://lindseybraun.itch.io/security) 
+
+[Youtube](https://youtu.be/dGNNAskwbWw)
