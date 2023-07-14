@@ -1,3 +1,4 @@
+[Download](https://lindseybraun.itch.io/security) &nbsp;| &nbsp;[Youtube](https://youtu.be/dGNNAskwbWw)
 # Security
 This level prototype serves as a playground for learning and exploring various C++ features in game development. It showcases camera toggling, interactive objects, destructible environments, ray tracing displays, proximity lights, AI enemy behavior, and a health system. Additionally, the level prototype introduces an innovative object highlighting system, which identifies interactable objects upon intersecting with the player's cursor, providing a visual cue and allowing the player to interact directly with the object.
 
@@ -34,7 +35,3 @@ Developer, Gameplay Programmer, UI/UX Designer & Programmer
 - Proximity Light Toggling
 - AI Enemy
 - Health System
-
-### Demo
-[Download](https://lindseybraun.itch.io/security) <br>
-[Youtube](https://youtu.be/dGNNAskwbWw)
